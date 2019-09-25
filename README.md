@@ -1,3 +1,3 @@
 # Algorithms-Stanford
 
- Assignments(in Python) of Algorithms Courses of Stanford University at Coursera
+Assignments (in Python) in Algorithms Courses of Stanford University at Coursera
